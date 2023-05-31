@@ -34,4 +34,4 @@ If the visitor switches the toggle to yearly billing, a 25% discount should be a
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/aveandrian/interactive-pricing-component-react/assets/13519212/1794e527-1d21-43ab-b13d-061684a5d5e4)
